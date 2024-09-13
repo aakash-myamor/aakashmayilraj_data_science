@@ -12,6 +12,8 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.decomposition import PCA
 
+# My Project Name : Company Bankruptcy Prediction 
+
 # To Read the dataset
 # =======================================================
 
